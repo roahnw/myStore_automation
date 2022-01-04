@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite01">
+<listeners>
+		<listener class-name="Listners.TestListener"/>
+        <listener class-name="Listners.AnnotationTransformer"/>
+    </listeners>
+
+	<test name="test homepage" group-by-instances = "true"> 
+     	<groups>
+     		<run>
+     			<include name="quick"/>
+     		</run>
+     	</groups>
+    	<classes>
+    		<class name="testCases.KickOFF"/>
+      		<class name="testCases.Validate_HomePage"/>
+      		<class name="testCases.Validate_ContactUs"/>
+    	</classes>
+  	</test>
+</suite>   
+
