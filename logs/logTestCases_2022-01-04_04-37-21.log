@@ -1,0 +1,12 @@
+2022-01-04 16:37:21.084 INFO [main] [com.myStore.Driver.Logs] [info] [com.myStore.Driver.Logs.info(Logs.java:26)] - I am in onStart method test homepage
+2022-01-04 16:37:21.106 INFO [main] [com.myStore.Driver.Logs] [info] [com.myStore.Driver.Logs.info(Logs.java:26)] - TC01 test is starting.
+2022-01-04 16:37:21.114 INFO [main] [com.myStore.Driver.Logs] [info] [com.myStore.Driver.Logs.info(Logs.java:26)] - TC01 test is succeed.
+2022-01-04 16:37:30.330 INFO [main] [com.myStore.Driver.Logs] [info] [com.myStore.Driver.Logs.info(Logs.java:26)] - TC02 test is starting.
+2022-01-04 16:37:30.497 INFO [main] [com.myStore.Driver.Logs] [info] [com.myStore.Driver.Logs.info(Logs.java:26)] - TC02 test is succeed.
+2022-01-04 16:37:30.501 INFO [main] [com.myStore.Driver.Logs] [info] [com.myStore.Driver.Logs.info(Logs.java:26)] - TC03 test is starting.
+2022-01-04 16:37:30.840 INFO [main] [com.myStore.Driver.Logs] [info] [com.myStore.Driver.Logs.info(Logs.java:26)] - TC03 test is skipped.
+2022-01-04 16:37:30.842 INFO [main] [com.myStore.Driver.Logs] [info] [com.myStore.Driver.Logs.info(Logs.java:26)] - TC03 test is starting.
+2022-01-04 16:37:31.086 INFO [main] [com.myStore.Driver.Logs] [info] [com.myStore.Driver.Logs.info(Logs.java:26)] - TC03 test is skipped.
+2022-01-04 16:37:31.089 INFO [main] [com.myStore.Driver.Logs] [info] [com.myStore.Driver.Logs.info(Logs.java:26)] - TC03 test is starting.
+2022-01-04 16:37:31.196 INFO [main] [com.myStore.Driver.Logs] [info] [com.myStore.Driver.Logs.info(Logs.java:26)] - TC03 test is failed.
+2022-01-04 16:37:31.337 INFO [main] [com.myStore.Driver.Logs] [info] [com.myStore.Driver.Logs.info(Logs.java:26)] - I am in onFinish method test homepage

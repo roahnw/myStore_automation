@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Suite01]]">
+  <listeners>
+    <listener class-name="Listners.TestListener"/>
+    <listener class-name="Listners.AnnotationTransformer"/>
+  </listeners>
+  <test name="test homepage(failed)(failed)">
+    <groups>
+      <run>
+        <include name="quick"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testCases.Validate_ContactUs">
+        <methods>
+          <include name="TC03"/>
+          <include name="gotoContactUsPage"/>
+        </methods>
+      </class> <!-- testCases.Validate_ContactUs -->
+    </classes>
+  </test> <!-- test homepage(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite01]] -->
